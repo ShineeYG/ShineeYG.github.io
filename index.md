@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
-##Fork by git at 2020/06/09
+## Welcome to My First Online Markdown Pages
+##Create by git at 2020/06/09.
+##创建时间 2020/06/09
 You can use the [editor on GitHub](https://github.com/ShineeYG/ShineeYG.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+你可以使用 [editor on GitHub](https://github.com/ShineeYG/ShineeYG.github.io/edit/master/index.md) 来维护和预览Markdown文件中网站的内容。
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+每当您提交到该存储库时，GitHub Pages就会运行[Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
@@ -23,8 +30,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
